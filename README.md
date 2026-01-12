@@ -1,4 +1,4 @@
-# Assignment 6 实现多轮联网搜索增强和RAG问答的问答agent
+# Assignment 6 SmartSearchAgent
 
 ## 学生信息
 - 姓名：[宁家哲]
